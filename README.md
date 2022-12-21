@@ -1,2 +1,2 @@
 # Login-Signup
-This is a simple Frontend design to login-signup and shwing map using React Native
+This is a simple Frontend design to login-signup and showing  map using React Native
