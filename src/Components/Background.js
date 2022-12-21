@@ -4,7 +4,7 @@ import {View, ImageBackground} from 'react-native';
 const Background = ({ children }) => {
   return (
     <View>
-      <ImageBackground source={require("../assets/L2.jpg")} style={{ height: '100%' } } />
+      <ImageBackground source={require("../assets/L5.jpeg")} style={{ height: '100%' } } />
       <View style={{ position: "absolute" }}>
         {children}
       </View>

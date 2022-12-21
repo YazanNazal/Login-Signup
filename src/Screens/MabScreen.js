@@ -14,8 +14,8 @@ const MapScreen = (props) => {
       
     
     />
-    <View style={{alignItems: 'center', width: 460}}>
-    <Btn textColor='white' bgColor={'#2BB789'} btnLabel="Back" Press={() => props.navigation.navigate("Home")} />
+    <View style={{alignItems: 'center'}}>
+    <Btn textColor='white' bgColor={'#2BB789'} btnLabel="Back" Press={() => props.navigation.navigate("Home") } />
 
     </View>
     </View>
